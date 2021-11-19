@@ -1,10 +1,9 @@
 let masu=8;
 let aimode=1;
 let ailev=3;
-let clshtm = document.body.innerHTML;
 
 function cls(){
-    document.body.innerHTML=clshtm;
+    document.body.innerHTML="";
 }
 
 //ゲーム初期化
